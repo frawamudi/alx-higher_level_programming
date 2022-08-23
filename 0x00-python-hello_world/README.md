@@ -1,1 +1,1 @@
-# Python Hello world and C interview prep
+# Python Hello and other stuff
